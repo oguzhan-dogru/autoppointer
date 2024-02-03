@@ -1,8 +1,6 @@
 # Author: Oguzhan Dogru
 # Date 03 Feb 2024
 # Reference: https://www.youtube.com/watch?v=SPM1tm2ZdK4
-# Script License MIT
-
 
 """
 Assumptions:
